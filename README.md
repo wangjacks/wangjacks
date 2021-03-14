@@ -1,0 +1,12 @@
+- Hi, I’m @wangjacks, a middle school student.
+- I come from China. My English is not very well.
+- I’m interested in coding(specially HTML) and building sites. I started to learn coding in 2015 and began to learn building sites in 2020.
+- My friends help me a lot with building sites. So I want to say thanks to:
+  - Suansuan
+  - Macos 15.3
+  - Huangshi
+  - Kerry
+  - Copur
+  - Horatio
+  - Lujing
+  - ……
