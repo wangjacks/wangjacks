@@ -1,5 +1,5 @@
-- 👋Hi, I’m @wangjacks, a senior high student.
-- 🇨🇳oCome from China, English is not very well.
-- ✍️Interested in programming(specially HTML) and building sites. Started to learn to code in 2015 and began to learn building sites in 2020.
-- ❤️My friends help me a lot along my exploring road. So I want to say thanks to:
+- 👋 | Hi, I’m @wangjacks, a senior high student.
+- 🇨🇳 | Come from China, English is not very well.
+- ✍️ | Interested in programming(specially HTML) and building sites. Started to learn to code in 2015 and began to learn building sites in 2020.
+- ❤️ | My friends help me a lot along my exploring road. So I want to say thanks to:
   - [https://blog233.com/anniversary/2/#thanks]
