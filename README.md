@@ -1,9 +1,13 @@
 # Hi there 👋
 
-- 🐦 I’m [@wangjacks](https://github.com/wangjacks), a senior high student from China.
+- 🐦 I’m [@wangjacks](https://github.com/wangjacks), a college student from China.
 - ✍️ Interested in:
   - Build Websites, especially blogs
   - Learn coding
+- 📖 Currently Learning:
+  - Java SE
+  - C++
+  - Basic Web Design (HTML / CSS / JS)
 - ❤️ My friends have been incredibly supportive on my journey of exploration, so I want to express my gratitude to:
   - [Blog233 Anniversary Page](https://blog233.com/anniversary/2/#thanks)
 
