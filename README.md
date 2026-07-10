@@ -1,33 +1,60 @@
 # 👋 Hi there
 
-I'm [@wangjacks](https://github.com/wangjacks), a CS freshman from China.
+I'm **WangJack** ([`@wangjacks`](https://github.com/wangjacks)), a Computer Science freshman from China.
 
-Self-taught since elementary school. Still have a long way to go, but coding has never stopped being fun.
+I've been learning by building since elementary school—starting with simple websites and gradually exploring programming, Linux, web development, and open source.
+
+I still consider myself a beginner, but I enjoy turning ideas into working software and continuously improving the way I build.
+
+<p align="center">
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wangjacks\&show_icons=true\&include_all_commits=true\&theme=algolia)](https://github-stats-extended.vercel.app/api?username=wangjacks&show_icons=true&include_all_commits=true&theme=algolia)
+
+</p>
 
 ---
 
-## 🔭 Things I've Worked On
+## 🛠 Things I've Built & Worked On
 
-- SimpleForm - Polling Platform w/ quota limits (PHP + MySQL + Chart.js)
-- Hadoop WordCount on Alibaba Cloud
-- Home Assistant on Raspberry Pi
-- Promoting [ClassIsland](https://www.classisland.tech) - Made a school-wide schedule template used by ~1/4 of the classes in my grade
-- [Blog233](https://www.blog233.com) - A blog focused on building websites
+### Projects
+
+* **SimpleForm** — A lightweight polling platform with quota limits and statistical analysis. (PHP + MySQL)
+* **Blog233** — A technical blog documenting website building and self-hosting
+
+### Other Experiences
+
+* Hadoop WordCount experiment deployed on Alibaba Cloud ECS
+* Built a [ClassIsland](https://www.classisland.tech/) timetable template adopted by ~1/4 of the classes in my grade
+* Self-hosted Home Assistant on Raspberry Pi
+
+---
 
 ## 🌱 Currently Into
 
-- Java SE
-- C++
-- Web Development - building up from the basics (HTML / CSS / JS)
-
-## 📫 Find Me
-
-- Blog: [blog.wj0.top](https://blog.wj0.top)
-- Solving problems on [Luogu](https://www.luogu.com.cn/user/1188102), AtCoder, CodeForces & LeetCode
+* Java SE
+* Modern Web Development (Next.js / TypeScript)
+* Git & GitHub Workflow
+* Software Engineering Practices
+* AI-assisted Development
 
 ---
 
-> I built my first blog in middle school. Still running it today.
+## 📫 Find Me
 
-> *Thanks to my friends who've been incredibly supportive on this journey.* ❤️
-> [Blog233 Anniversary Page](https://blog233.com/anniversary/2/#thanks)
+* 🌐 Blog: [https://blog.wj0.top](https://blog.wj0.top)
+* 📝 Blog233: [https://www.blog233.com](https://www.blog233.com)
+* 🎯 Also active on [Luogu](https://www.luogu.com.cn/user/1188102), AtCoder, Codeforces and LeetCode
+
+---
+
+> I built my first website in middle school, and I'm still maintaining it today.
+
+> Learning by building, one project at a time.
+
+---
+
+### ❤️ Thank You
+
+A special thanks to all the friends who've supported and inspired me over the years.
+
+- [**Blog233 Anniversary Page**](https://blog233.com/anniversary/2/#thanks)
